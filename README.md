@@ -24,3 +24,5 @@ uvicorn app.main:app --reload
 ```bash
 pytest -q
 ```
+
+update dashboard;;;..;;;
